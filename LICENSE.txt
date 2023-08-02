@@ -1,0 +1,5 @@
+Copyright (c) 2023 Lalu Ahmad Ardiansyah
+
+1. This code is offered as inspiration and is freely available for use.
+2. If you find this code helpful, kindly consider crediting the author as a
+   gesture of appreciation.

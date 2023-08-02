@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  @apply ml-[-0.1rem] mb-4 font-extrabold text-3xl sm:text-4xl md:text-5xl;
+}
+
+p a {
+  @apply font-bold hover:underline hover:text-black dark:hover:text-white;
+}
